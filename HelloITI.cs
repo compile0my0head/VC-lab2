@@ -9,6 +9,6 @@
     }
 	public static void printHelloGit()
     {
-    Console.WriteLine("HelloGit")
+    Console.WriteLine("HelloGit");
     }
 }
