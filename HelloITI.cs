@@ -12,4 +12,8 @@
     Console.WriteLine("HelloGit");
     }
 }
+<<<<<<< HEAD
 hhhhh
+=======
+hhhhhhhh
+>>>>>>> csEdits
